@@ -9,7 +9,7 @@
 
 ---
 
-## University of Illinois Urbana-Champagne
+## :x: University of Illinois Urbana-Champagne
 * Location: Urbana-Champagne, IL
 * Deadline: December 15, 2023 (One month lead "highly recommended")
 * Application Fee: $70
@@ -39,8 +39,14 @@
 
 ---
 
-## University of Madison-Wisconsin
+## :x: University of Madison-Wisconsin
 * Location: Madison, WI
 * Deadline: December 15, 2023
 * Application Fee: $75
-* Application Portal: 
+* Application Portal: [Here](https://grad.wisc.edu/apply/)
+* Program Website: [Here](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-phd/#admissionstext)
+
+### Application Requirements
+- :x: Unofficial Transcripts (Official **not** required for initial review)
+- :x: Three Letters of Recommendation
+- :x: 
