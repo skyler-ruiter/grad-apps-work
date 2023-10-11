@@ -166,7 +166,7 @@
 #### [Parallel Systems and HPC](https://cse.engin.umich.edu/research/research-areas/warehouse-scale-parallel-systems/)
 
 * [*Todd Austin*](https://web.eecs.umich.edu/~taustin/)
-* **Research Interests**: I am interested in the design and implementation of high-performance, power-efficient, bug-free, secure, and cost-effective computing systems. My research interests include computer architecture, robust and secure system design, hardware and software verification, and performance analysis tools and techniques
+  * **Research Interests**: I am interested in the design and implementation of high-performance, power-efficient, bug-free, secure, and cost-effective computing systems. My research interests include computer architecture, robust and secure system design, hardware and software verification, and performance analysis tools and techniques
   * :x: Researched (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
 * [*Ang Chen*](https://web.eecs.umich.edu/~chenang/)
@@ -206,6 +206,19 @@
 * [*H. Metin Aktulga*](https://www.cse.msu.edu/~hma/)
   * **Research Interests**: high performance computing, applications of parallel computing, big data analytics and numerical linear algebra.
   * [Google Scholar](https://scholar.google.com/citations?user=CfLHDYgAAAAJ&hl=en)
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+* [*Wolfgang Banzhaf*](https://www.cse.msu.edu/~banzhafw/#research)
+  * **Research Interests**: genetic and evolutionary programming
+  * [Lab](https://banzhaf-lab.github.io/)
+  * [Google Scholar](https://scholar.google.com/citations?user=u-FjxEUAAAAJ&hl=en)
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+* [*Mohammad M. Ghassemi*](https://ghassemi.xyz/index.html)
+* [*Kevin J. Liu*](https://www.egr.msu.edu/people/profile/kjl)
+  * **Research Interests**: Bioinformatics, computational biology, and big data/machine learning with applications to genomics.
+  * Actively looking for students / asks for emails on website
+  * [Website](https://www.cse.msu.edu/~kjl/index.html) LOOK HERE
   * :x: Researched (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
 
