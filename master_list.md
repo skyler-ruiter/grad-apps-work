@@ -1,11 +1,37 @@
-# Programs Under Consideration
+# Programs To Apply To (10-15)
 
-1. [**:x: University of Illinois Urbana-Champagne**](#university-of-illinois-urbana-champagne)
+1. [**:x: University of Illinois Urbana-Champagne**](#university-of-illinois-urbana-champagne) :star:
 2. [**:x: University of Madison-Wisconsin**](#university-of-madison-wisconsin)
-3. [**:x: University of Michigan**](#university-of-michigan)
+3. [**:x: University of Notre Dame**](#university-of-notre-dame) :star:
 4. [**:x: Purdue University**](#purdue-university)
-5. [**:x: Michigan State University**](#michigan-state-university)
+5. [**:x: Michigan State University**](#michigan-state-university) :star:
 6. [**:x: University of Maryland College Park**](#university-of-maryland-college-park)
+7. [**:x: University of Minnesota**](#university-of-minnesota)
+
+## Programs To Look Into
+
+* Oregon State University
+* Georgia Tech University
+* Northwestern University
+* University of Illinois Chicago
+* University of Santa Barbara
+* Virginia Tech University
+* Ohio State University
+* Rutgers University
+* Stony Brook University
+* Colorado School of Mines
+* George Mason University
+* University of Massachusetts Amherst
+* Washington State University
+
+## Long Shot Programs (0-5)
+
+* Massachusetts Institute of Technology (MIT)
+* [University of Michigan](#university-of-michigan) :star:
+* University of California, Berkeley
+* Cornell University
+* Yale University
+* Carnegie Mellon University
 
 ---
 
@@ -141,48 +167,6 @@
 * [Stipend Information](https://grad.wisc.edu/funding/graduate-assistantships/) (~23k academic year)
 * [Machine Learning Faculty](https://www.cs.wisc.edu/research/research-groups/#machine-learning)
 
-## University of Michigan
-
-* Location: Ann Arbor, MI
-* Deadline: December 15, 2023
-* Application Fee: $75
-* Application Portal: [Here](https://rackham.umich.edu/admissions/applying/)
-* Program Website: [Here](https://cse.engin.umich.edu/academics/graduate/graduate-programs/phd-in-cse/)
-
-### [Application Requirements](https://cse.engin.umich.edu/academics/graduate/admissions/apply/)
-
-* [Graduate School Requirements](https://rackham.umich.edu/admissions/steps-admissions-process/)
-* :heavy_check_mark: GRE Scores are **not considered** DO NOT SEND
-* :x: Statement of Purpose
-* :x: Personal Statement
-* :x: CV
-* :x: Primary and Secondary Research Interest
-* :x: Up to 5 Faculty of Interest
-* :x: 3 Letters of Recommendation
-* :x: Transcripts
-
-### Faculty of Interest
-
-#### [Parallel Systems and HPC](https://cse.engin.umich.edu/research/research-areas/warehouse-scale-parallel-systems/)
-
-* [*Todd Austin*](https://web.eecs.umich.edu/~taustin/)
-  * **Research Interests**: I am interested in the design and implementation of high-performance, power-efficient, bug-free, secure, and cost-effective computing systems. My research interests include computer architecture, robust and secure system design, hardware and software verification, and performance analysis tools and techniques
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
-* [*Ang Chen*](https://web.eecs.umich.edu/~chenang/)
-* [*Ronald G. Dreslinski*](https://web.eecs.umich.edu/~rdreslin/)
-* [*Quentin Stout*](https://web.eecs.umich.edu/~qstout/)
-  * Interested in parallel computing. Very intersting and open to working with students
-* [*Gokul Subramanian Ravi*](https://gsravi.engin.umich.edu/)
-  * Quantum Computing!
-* [*Mosharaf Chowdhury*](https://www.mosharaf.com/)
-  * [Lab](https://symbioticlab.org/)
-
-### Notes
-
-* [Program Doc](https://docs.google.com/document/d/18vDSki737f3dS4GxHjBG8qYPE7MczUKC0mOKvJNghos/edit)
-* [Application Overview](https://rackham.umich.edu/admissions/overview-application-process/)
-
 ## Michigan State University
 
 * Location: East Lansing, MI
@@ -280,24 +264,7 @@
   * :x: Researched (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
 
-
-## University of
-
-* Location:
-* Deadline:
-* Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
-
-### Application Requirements
-
-* :x:
-* :x:
-
-* :x:
-
-
-## University of
+## University of Notre Dame
 
 * Location:
 * Deadline:
@@ -310,20 +277,54 @@
 * :x:
 * :x:
 
-* :x:
+### Faculty of Interest
 
+* 
 
-## University of
+### Notes
 
-* Location:
-* Deadline:
-* Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
+* 
 
-### Application Requirements
+## **--------Long Shot Programs--------**
 
-* :x:
-* :x:
+## University of Michigan
 
-* :x:
+* Location: Ann Arbor, MI
+* Deadline: December 15, 2023
+* Application Fee: $75
+* Application Portal: [Here](https://rackham.umich.edu/admissions/applying/)
+* Program Website: [Here](https://cse.engin.umich.edu/academics/graduate/graduate-programs/phd-in-cse/)
+
+### [Application Requirements](https://cse.engin.umich.edu/academics/graduate/admissions/apply/)
+
+* [Graduate School Requirements](https://rackham.umich.edu/admissions/steps-admissions-process/)
+* :heavy_check_mark: GRE Scores are **not considered** DO NOT SEND
+* :x: Statement of Purpose
+* :x: Personal Statement
+* :x: CV
+* :x: Primary and Secondary Research Interest
+* :x: Up to 5 Faculty of Interest
+* :x: 3 Letters of Recommendation
+* :x: Transcripts
+
+### Faculty of Interest
+
+#### [Parallel Systems and HPC](https://cse.engin.umich.edu/research/research-areas/warehouse-scale-parallel-systems/)
+
+* [*Todd Austin*](https://web.eecs.umich.edu/~taustin/)
+  * **Research Interests**: I am interested in the design and implementation of high-performance, power-efficient, bug-free, secure, and cost-effective computing systems. My research interests include computer architecture, robust and secure system design, hardware and software verification, and performance analysis tools and techniques
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+* [*Ang Chen*](https://web.eecs.umich.edu/~chenang/)
+* [*Ronald G. Dreslinski*](https://web.eecs.umich.edu/~rdreslin/)
+* [*Quentin Stout*](https://web.eecs.umich.edu/~qstout/)
+  * Interested in parallel computing. Very intersting and open to working with students
+* [*Gokul Subramanian Ravi*](https://gsravi.engin.umich.edu/)
+  * Quantum Computing!
+* [*Mosharaf Chowdhury*](https://www.mosharaf.com/)
+  * [Lab](https://symbioticlab.org/)
+
+### Notes
+
+* [Program Doc](https://docs.google.com/document/d/18vDSki737f3dS4GxHjBG8qYPE7MczUKC0mOKvJNghos/edit)
+* [Application Overview](https://rackham.umich.edu/admissions/overview-application-process/)
