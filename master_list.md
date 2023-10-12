@@ -10,7 +10,7 @@
 
 ## Programs To Look Into
 
-* Oregon State University
+* [Oregon State University](#oregon-state-university)
 * Georgia Tech University
 * Northwestern University
 * University of Illinois Chicago (**FEE WAIVER OBTAINED**)
@@ -34,6 +34,29 @@
 * Carnegie Mellon University
 
 ---
+
+## Template University
+
+* Location: 
+* Deadline: 
+* Application Fee: $
+* Application Portal: [Here]()
+* Program Website: [Here]()
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 
 
 ## University of Illinois Urbana-Champagne
 
@@ -198,7 +221,7 @@
   * [Google Scholar](https://scholar.google.com/citations?user=u-FjxEUAAAAJ&hl=en)
   * :x: Researched (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
-* [*Mohammad M. Ghassemi*](https://ghassemi.xyz/index.html)
+* [*Jiayu Zhou*](https://jiayuzhou.github.io/)
 * [*Kevin J. Liu*](https://www.egr.msu.edu/people/profile/kjl)
   * **Research Interests**: Bioinformatics, computational biology, and big data/machine learning with applications to genomics.
   * Actively looking for students / asks for emails on website
@@ -322,24 +345,74 @@
 
 ## University of Notre Dame
 
-* Location:
-* Deadline:
-* Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
+* Location: Notre Dame, IN
+* Deadline: December 15, 2023
+* Application Fee: $75
+* Application Portal: [Here](https://graduateschool.nd.edu/applicants/)
+* Program Website: [Here](https://cse.nd.edu/graduate/phd-in-computer-science-and-engineering/)
 
 ### Application Requirements
 
-* :x:
-* :x:
+* :x: GRE Scores (Optional)
+* :x: CV
+* :x: Transcripts (Unofficial)
+* :x: Statement of Intent
+* :x: 3 Letters of Recommendation
 
 ### Faculty of Interest
 
-* 
+* [*Tim Weninger*](https://timweninger.com/)
+  * **Research Interests**: artificial intelligence, machine learning, and social media
+* [*Douglas Thain*](https://www3.nd.edu/~dthain/)
+  * **Research Interests**: Distributed computing, Scientific computing, Cloud computing, Grid computing, Operating systems, Open source software, File and storage systems, Compilers and languages
+
+* [*Xiangliang (Lynn) Zhang*](https://cse.nd.edu/faculty/xiangliang-zhang/)
+  * **Research Interests**: machine learning, data mining and their application in knowledge discovery
+* [*Danny Chen*](https://cse.nd.edu/faculty/danny-chen/)
+  * **Research Interests**: algorithm design, analysis, and implementation, computational geometry, computational biomedicine, biomedical imaging, machine learning, data mining, parallel and distributed computing, and VLSI design
 
 ### Notes
 
-* 
+* 35k Stipend and really good health insurance
+
+## **--------Programs Being Looked Into--------**
+
+## Oregon State University
+
+* Location: Corvallis, OR
+* Deadline: December 1, 2023
+* Application Fee: $75
+* Application Portal: [Here](https://gradschool.oregonstate.edu/programs/3070/computer-science-phd-meng-ms-minor)
+* Program Website: [Here](https://engineering.oregonstate.edu/Academics/Degrees/computer-science#toc-undergraduate-information)
+
+### [Application Requirements](https://gradschool.oregonstate.edu/admissions)
+
+* :x: GRE Scores (Optional)
+* :x: 3 Letters of Recommendation
+* :x: Statement of Objectives
+* :x: CV
+* :x: Transcripts (Unofficial)
+
+### Faculty of Interest
+
+* [*Lizhong Chen*](https://web.engr.oregonstate.edu/~chenliz/index.html)
+  * **Research Interests**: efficient computer systems (e.g., GPUs, accelerators, HPCs, IoT devices) and their applications in machine learning and natural language processing (e.g., large language models)
+  * [STAR Lab](https://web.engr.oregonstate.edu/~chenliz/news.html)
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+* [*David Hendrix*](https://engineering.oregonstate.edu/people/david-hendrix)
+  * **Research Interests**: Bioinformatics, computational biology, biological data science, data mining, machine learning
+  * [Hendrix Lab](https://hendrixlab.cgrb.oregonstate.edu/)
+* [*Fuxin Li*](https://engineering.oregonstate.edu/people/fuxin-li)
+  * **Research Interests**: Computer vision, explainable machine learning, deep learning
+* [*Huazheng Wang*](https://huazhengwang.github.io/)
+  * **Research Interests**: Computer vision, explainable machine learning, deep learning
+* [*Stefan Lee*](https://engineering.oregonstate.edu/people/stefan-lee)
+  * **Research Interests**: Computer vision, natural language processing, machine learning
+
+### Notes
+
+* 30k Stipend
 
 ## **--------Long Shot Programs--------**
 
