@@ -13,7 +13,7 @@
 * Oregon State University
 * Georgia Tech University
 * Northwestern University
-* University of Illinois Chicago
+* University of Illinois Chicago (**FEE WAIVER OBTAINED**)
 * University of Santa Barbara
 * Virginia Tech University
 * Ohio State University
@@ -212,48 +212,88 @@
 
 ## Purdue University
 
-* Location:
-* Deadline:
-* Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
+* Location: West Lafayette, IN
+* Deadline: December 20, 2023
+* Application Fee: $60
+* Application Portal: [Here](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html)
+* Program Website: [Here](https://www.cs.purdue.edu/graduate/admission/index.html)
 
 ### Application Requirements
 
-* :x:
-* :x:
+* GRE Not Required
+* :x: CS Supplemental Form (Coursework)
+* :x: Academic Statement of Purpose
+* :x: [Personal History Statement](https://www.purdue.edu/gradschool/admissions/how-to-apply/personal-history.html)
+* :x: 3 Letters of Recommendation
+* :x: Transcripts
+* :x: Electronic Graduate Application
 
-* :x:
+### Faculty of Interest
 
+* [*Diasuke Kihara*](https://www.cs.purdue.edu/people/faculty/dkihara.html)
+  * **Research Interests**: Bioinformatics
+  * [Lab](https://kiharalab.org/)
+* [*Ananth Grama*](https://www.cs.purdue.edu/people/faculty/ayg.html)
+  * **Research Interests**: Parallel and distributed computing, algorithms, and applications
+* [*Alex Pothen*](https://www.cs.purdue.edu/people/faculty/apothen.html)
+  * **Research Interests**: combinatorial scientific computing (CSC), parallel algorithms, graph algorithms, and bioinformatics
+* [*David F. Gleich*](https://www.cs.purdue.edu/homes/dgleich/)
+  * **Research Interests**: high performance and large scale computations with a focus on enabling previously infeasible analysis of data from biology, social networks, and scientific simulations
+* [*Ananth Grama*](https://www.cs.purdue.edu/homes/ayg/)
+
+### Notes
+
+* 26k Stipend
+* [PurPL Lab](https://purpl.cs.purdue.edu/)
 
 ## University of Maryland College Park
 
-* Location:
-* Deadline:
-* Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
+* Location: College Park, MD
+* Deadline: December 15, 2023
+* Application Fee: $75
+* Application Portal: [Here](https://www.cs.umd.edu/grad/catalog#applying)
+* Program Website: [Here](https://www.cs.umd.edu/)
 
-### Application Requirements
+### [Application Requirements](https://gradschool.umd.edu/computermathematicalnatural-sciences/cmsc)
 
-* :x:
-* :x:
+* :x: Online Graduate Application
+* :x: Transcrips (Unofficial)
+* :x: GRE Scores (Optional)
+* :x: 3 Letters of Recommendation
+* :x: CV
+* :x: Publications (Optional)
 
-* :x:
+### Faculty of Interest
 
+* [*Howard Elman*](https://www.cs.umd.edu/~elman/)
+  * **Research Interests**: Numerical analysis, numerical linear algebra, computational fluid dynamics, parallel computation
+* [*Laxman Dhulipala*](https://www.cs.umd.edu/people/laxman)
+  * **Research Interests**: high-performance parallel algorithms (theory and practice), models of computation for emerging hardware, scalable static/dynamic/streaming graph algorithms
+* [*Abhinav Bhatele*](https://www.cs.umd.edu/people/bhatele)
+  * **Research Interests**: systems and networks, with a focus on parallel computing and large-scale data analytics
+
+### Notes
+
+* [Maryland Max Planck Ph.D. Program](https://www.cs.umd.edu/maryland-max-planck/admissions) for a chance to work in Germany!
+* Is the [**Quantum Capital**](https://quantum.umd.edu/) of the world
 
 ## University of Minnesota
 
-* Location:
-* Deadline:
+* Location: Minneapolis, MN
+* Deadline: December 15, 2023
 * Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
+* Application Portal: [Here](https://grad.umn.edu/admissions)
+* Program Website: [Here](https://cse.umn.edu/cs/phd-overview)
 
-### Application Requirements
+### [Application Requirements](https://cse.umn.edu/cs/phd-admissions)
 
-* :x:
-* :x:
+* :heavy_check_mark: GRE Scores are **not considered** DO NOT SEND
+* :x: Statement of Purpose / Personal Statement
+* :x: Diversity Statement
+* :x: Transcripts (Unofficial)
+* :x: CV
+* :x: 3 Letters of Recommendation
+* :x: Description of Research (Optional)
 
 ### Faculty of Interest
 
@@ -263,6 +303,22 @@
   * **Research Interests**: HPC, Bioinformatics
   * :x: Researched (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
+* [*Daniel Boley*](https://cse.umn.edu/cs/daniel-boley)
+  * **Research Interests**: scalable algorithms for convex optimization in machine learning, the analysis of networks and graphs such as those arising from metabolic biochemical networks and networks of wireless devices
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+* [*Yousef Saad*](https://cse.umn.edu/cs/yousef-saad)
+  * **Research Interests**: numerical linear algebra, sparse matrix computations, iterative methods for linear systems and eigenvalue problems, parallel algorithms in numerical linear algebra, and matrix methods for machine learning
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+* [**]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* [Distributed Computing Systems Group](https://www-users.cse.umn.edu/~weiss039/recentpub.html)
 
 ## University of Notre Dame
 
