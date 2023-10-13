@@ -7,12 +7,12 @@
 5. [**:x: Michigan State University**](#michigan-state-university) :star:
 6. [**:x: University of Maryland College Park**](#university-of-maryland-college-park)
 7. [**:x: University of Minnesota**](#university-of-minnesota)
+8. [**:x: Georgia Tech University**](#georgia-tech-university)
 
 ## Programs To Look Into
 
 * [Oregon State University](#oregon-state-university)
-* Georgia Tech University
-* Northwestern University
+* [Northwestern University](#northwestern-university)
 * University of Illinois Chicago (**FEE WAIVER OBTAINED**)
 * University of Santa Barbara
 * Virginia Tech University
@@ -23,6 +23,8 @@
 * George Mason University
 * University of Massachusetts Amherst
 * Washington State University
+* University of Waterloo
+* University of Utah
 
 ## Long Shot Programs (0-5)
 
@@ -332,10 +334,8 @@
   * :x: Contacted (Email of interest sent)
 * [*Yousef Saad*](https://cse.umn.edu/cs/yousef-saad)
   * **Research Interests**: numerical linear algebra, sparse matrix computations, iterative methods for linear systems and eigenvalue problems, parallel algorithms in numerical linear algebra, and matrix methods for machine learning
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
-* [**]()
-  * **Research Interests**:
+* [*Vipin Kumar*](https://cse.umn.edu/cs/vipin-kumar)
+  * **Research Interests**: data mining, high-performance computing, and their applications in climate/ecosystems and health care
   * :x: Researched (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
 
@@ -375,6 +375,50 @@
 
 * 35k Stipend and really good health insurance
 
+## Georgia Tech University
+
+* Location: Atlanta, GA
+* Deadline: December 15, 2023
+* Application Fee: $95
+* Application Portal: [Here](https://gradapp.gatech.edu/apply/)
+* Program Website: [Here](https://www.cc.gatech.edu/degree-programs/phd-computer-science)
+
+### [Application Requirements](https://www.cc.gatech.edu/phd-cs-admissions-requirements)
+
+* :x: GRE Scores (Optional)
+* :x: 3 Letters of Recommendation
+* :x: Online Application
+
+
+### Faculty of Interest
+
+#### [HPC](https://cse.gatech.edu/high-performance-computing)
+
+* [*Helen Xu*](https://itshelenxu.github.io/)
+  * **Research Interests**: Parallel and high-performance computing, Cache-friendly algorithms and data structures, Software performance engineering
+  * Looking for PhD Students
+* [*Rich Vuduc*](https://vuduc.org/v2/)
+  * **Research Interests**: scientific computing and statistical data analysis, and we usually target high-end computing platforms, a.k.a., supercomputers
+  * [HPC Garage](https://hpcgarage.org/wp/)
+* [*Haesun Park*](https://faculty.cc.gatech.edu/~hpark/research.html)
+  * **Research Interests**: Numerical Computing, Large Scale Data Analytics, Visual Analytics, Text Analysis, Social Network Analysis, Parallel Computing, Bioinformatics
+  * Makes NMF algorithms!
+* [*Edmond Chow*](https://faculty.cc.gatech.edu/~echow/)
+  * **Research Interests**: Numerical methods, particularly numerical linear algebra, for high-performance computers applied to scientific computing and data science problems, including for PDE models, quantum chemistry, molecular dynamics, Brownian/Stokesian dynamics, inverse problems, data assimilation, uncertainty quantification, Gaussian processes, machine learning.
+  * [IPCC Lab](https://faculty.cc.gatech.edu/~echow/ipcc/)
+* [*Ümit V. Çatalyürek*](https://faculty.cc.gatech.edu/~umit/)
+  * **Research Interests**: high performance computing, combinatorial scientific computing and biomedical informatics
+  * [TDA Lab](http://tda.gatech.edu/projects)
+* [*Spencer Bryngelson*](https://comp-physics.group/)
+  * **Research Interests**: Computational physics, numerical methods, fluid dynamics, high performance computing
+  * [Lab](https://comp-physics.group/vacancies)
+    * Looking for PhD Students *don't email though*
+
+### Notes
+
+* [Center for High Performance Computing (CHiPC)](https://chipc.gatech.edu/)
+* ~20k Stipend?
+
 ## **--------Programs Being Looked Into--------**
 
 ## Oregon State University
@@ -413,6 +457,36 @@
 ### Notes
 
 * 30k Stipend
+
+## Northwestern University
+
+* Location: Evanston, IL
+* Deadline: December 1, 2023
+* Application Fee: $95
+* Application Portal: [Here](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/)
+* Program Website: [Here](https://www.mccormick.northwestern.edu/computer-science/)
+
+### [Application Requirements](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/)
+
+* :heavy_check_mark: GRE Scores (Not Needed)
+* :x: Academic Statement
+* :x: Personal Statement
+* :x: Unofficial Transcripts 
+* :x: 3 Letters of Recommendation
+
+### Faculty of Interest
+
+* [*Nikos Hardavellas*](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hardavellas-nikos.html)
+  * **Research Interests**: parallel systems and computer architecture, primarily on techniques to enable extreme-scale multicore processors and practical quantum systems
+* [*Peter Dinda*](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dinda-peter.html)
+  * **Research Interests**: virtualization and operating systems for distributed and parallel computing, programming languages for parallel computing, and empathic systems for bridging individual user satisfaction and systems-level decision-making
+* [*Alok Choudhary*](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/choudhary-alok.html)
+  * **Research Interests**: big data science, supercomputing, scalable data mining, Machine Learning, AI and their applications in sciences
+  * [Center for Ultra-scale Computing and Information Security](http://cucis.eecs.northwestern.edu/)
+
+### Notes
+
+* 
 
 ## **--------Long Shot Programs--------**
 
