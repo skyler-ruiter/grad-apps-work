@@ -70,13 +70,16 @@
 
 ### Application Requirements
 
-* :x: Unofficial Transcripts (Official **not** required for initial review)
+* :heavy_check_mark: Unofficial Transcripts (Official **not** required for initial review)
 
-* :x: Three Letters of Recommendation (From academia preferred)
+* :x: Three Letters of Recommendation
+  * :heavy_check_mark: Sent (3/3)
+  * :x: Received (0/3)
 * :x: Online Application
   * :x: Statement of Purpose
-  * :x: CV
-* :x: Personal Statement (250 Words)
+  * :heavy_check_mark: CV
+* :x: Academic Statement (1,000 Words Max)
+* :x: Personal Statement Questions (0/2) (250 Words Max)
 
 * :x: GRE Scores (**Optional**)
 
