@@ -1,10 +1,10 @@
 # Programs To Apply To (10-15)
 
-1. [**:x: University of Illinois Urbana-Champagne**](#university-of-illinois-urbana-champagne) :star:
-2. [**:x: University of Madison-Wisconsin**](#university-of-madison-wisconsin)
-3. [**:x: University of Notre Dame**](#university-of-notre-dame) :star:
+1. [**:construction: University of Illinois Urbana-Champagne**](#university-of-illinois-urbana-champagne) :star:
+2. [**:construction: University of Wisconsin-Madison**](#university-of-wisconsin-madison)
+3. [**:construction: University of Notre Dame**](#university-of-notre-dame) :star:
 4. [**:x: Purdue University**](#purdue-university)
-5. [**:x: Michigan State University**](#michigan-state-university) :star:
+5. [**:construction: Michigan State University**](#michigan-state-university) :star:
 6. [**:x: University of Maryland College Park**](#university-of-maryland-college-park)
 7. [**:x: University of Minnesota**](#university-of-minnesota)
 8. [**:x: Georgia Tech University**](#georgia-tech-university)
@@ -13,7 +13,7 @@
 
 * [Oregon State University](#oregon-state-university)
 * [Northwestern University](#northwestern-university)
-* University of Illinois Chicago (**FEE WAIVER OBTAINED**)
+* University of Illinois Chicago
 * University of Santa Barbara
 * Virginia Tech University
 * Ohio State University
@@ -64,7 +64,7 @@
 
 * Location: Urbana-Champagne, IL
 * Deadline: December 15, 2023 (One month lead "highly recommended")
-* Application Fee: $70
+* Application Fee: $70 (**WAIVER AQUIRED**)
 * Application Portal: [Here](https://grad.illinois.edu/admissions/apply)
 * Program Website: [Here](https://cs.illinois.edu/admissions/graduate)
 
@@ -75,7 +75,7 @@
 * :x: Three Letters of Recommendation
   * :heavy_check_mark: Sent (3/3)
   * :x: Received (0/3)
-* :x: Online Application
+* :construction: Online Application
   * :x: Statement of Purpose
   * :heavy_check_mark: CV
 * :x: Academic Statement (1,000 Words Max)
@@ -132,7 +132,7 @@
 
 ---
 
-## University of Madison-Wisconsin
+## University of Wisconsin-Madison
 
 * Location: Madison, WI
 * Deadline: December 15, 2023
@@ -142,9 +142,12 @@
 
 ### Application Requirements
 
-* :x: Unofficial Transcripts (Official **not** required for initial review)
+* :heavy_check_mark: Unofficial Transcripts (Official **not** required for initial review)
 * :x: Three Letters of Recommendation
-* :x: Online Application
+  * :x: Sent (0/3)
+  * :x: Received (0/3)
+* :construction: Online Application
+  * Statements?
 
 ### Faculty of Interest
 
@@ -199,14 +202,17 @@
 
 * Location: East Lansing, MI
 * Deadline: December 31, 2023
-* Application Fee: $65
+* Application Fee: $65 (**WAIVER AQUIRED**)
 * Application Portal: [Here](https://www.cse.msu.edu/Students/Future_Grad/HowToApply.php)
 * Program Website: [Here](https://www.cse.msu.edu/)
 
 ### [Application Requirements](https://www.cse.msu.edu/Students/Future_Grad/HowToApply.php)
 
-* :x: Online Application
+* :construction: Online Application
+  * Note: Skip employment and activities section (its on the CV)
   * :x: 3 Letters of Recommendation
+    * :x: Sent (0/3)
+    * :x: Received (0/3)
   * :x: Academic Statement
   * :x: Personal Statement
   * :x: GRE Test Scores (*Highly Recommended*)
@@ -267,7 +273,6 @@
   * **Research Interests**: combinatorial scientific computing (CSC), parallel algorithms, graph algorithms, and bioinformatics
 * [*David F. Gleich*](https://www.cs.purdue.edu/homes/dgleich/)
   * **Research Interests**: high performance and large scale computations with a focus on enabling previously infeasible analysis of data from biology, social networks, and scientific simulations
-* [*Ananth Grama*](https://www.cs.purdue.edu/homes/ayg/)
 
 ### Notes
 
@@ -357,10 +362,13 @@
 ### Application Requirements
 
 * :x: GRE Scores (Optional)
-* :x: CV
-* :x: Transcripts (Unofficial)
+* :heavy_check_mark: CV
+* :heavy_check_mark: Transcripts (Unofficial)
 * :x: Statement of Intent
+* :x: Force for Good Statement (Optional)
 * :x: 3 Letters of Recommendation
+  * :x: Sent (0/3)
+  * :x: Received (0/3)
 
 ### Faculty of Interest
 
