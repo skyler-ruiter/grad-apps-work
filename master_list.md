@@ -3,9 +3,9 @@
 1. [**:construction: University of Illinois Urbana-Champagne**](#university-of-illinois-urbana-champagne) :star:
 2. [**:construction: University of Wisconsin-Madison**](#university-of-wisconsin-madison)
 3. [**:construction: University of Notre Dame**](#university-of-notre-dame) :star:
-4. [**:x: Purdue University**](#purdue-university)
+4. [**:construction: Purdue University**](#purdue-university)
 5. [**:construction: Michigan State University**](#michigan-state-university) :star:
-6. [**:x: University of Maryland College Park**](#university-of-maryland-college-park)
+6. [**:construction: University of Maryland College Park**](#university-of-maryland-college-park)
 7. [**:x: University of Minnesota**](#university-of-minnesota)
 8. [**:x: Georgia Tech University**](#georgia-tech-university)
 
@@ -255,12 +255,14 @@
 ### Application Requirements
 
 * GRE Not Required
-* :x: CS Supplemental Form (Coursework)
+* :heavy_check_mark: CS Supplemental Form (Coursework)
 * :x: Academic Statement of Purpose
 * :x: [Personal History Statement](https://www.purdue.edu/gradschool/admissions/how-to-apply/personal-history.html)
 * :x: 3 Letters of Recommendation
+  * :x: Sent (0/3)
+  * :x: Received (0/3)
 * :x: Transcripts
-* :x: Electronic Graduate Application
+* :construction: Electronic Graduate Application
 
 ### Faculty of Interest
 
@@ -289,7 +291,7 @@
 
 ### [Application Requirements](https://gradschool.umd.edu/computermathematicalnatural-sciences/cmsc)
 
-* :x: Online Graduate Application
+* :construction: Online Graduate Application
 * :x: Transcrips (Unofficial)
 * :x: GRE Scores (Optional)
 * :x: 3 Letters of Recommendation
