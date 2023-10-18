@@ -6,8 +6,8 @@
 4. [**:construction: Purdue University**](#purdue-university)
 5. [**:construction: Michigan State University**](#michigan-state-university) :star:
 6. [**:construction: University of Maryland College Park**](#university-of-maryland-college-park)
-7. [**:x: University of Minnesota**](#university-of-minnesota)
-8. [**:x: Georgia Tech University**](#georgia-tech-university)
+7. [**:construction: University of Minnesota**](#university-of-minnesota)
+8. [**:construction: Georgia Tech University**](#georgia-tech-university)
 
 ## Programs To Look Into
 
@@ -292,10 +292,12 @@
 ### [Application Requirements](https://gradschool.umd.edu/computermathematicalnatural-sciences/cmsc)
 
 * :construction: Online Graduate Application
-* :x: Transcrips (Unofficial)
+* :heavy_check_mark: Transcrips (Unofficial)
 * :x: GRE Scores (Optional)
 * :x: 3 Letters of Recommendation
-* :x: CV
+  * :x: Sent (0/3)
+  * :x: Received (0/3)
+* :heavy_check_mark: CV
 * :x: Publications (Optional)
 
 ### Faculty of Interest
@@ -325,9 +327,11 @@
 * :heavy_check_mark: GRE Scores are **not considered** DO NOT SEND
 * :x: Statement of Purpose / Personal Statement
 * :x: Diversity Statement
-* :x: Transcripts (Unofficial)
+* :heavy_check_mark: Transcripts (Unofficial)
 * :x: CV
 * :x: 3 Letters of Recommendation
+  * :x: Sent (0/3)
+  * :x: Received (0/3)
 * :x: Description of Research (Optional)
 
 ### Faculty of Interest
@@ -400,7 +404,9 @@
 
 * :x: GRE Scores (Optional)
 * :x: 3 Letters of Recommendation
-* :x: Online Application
+  * :x: Sent (0/3)
+  * :x: Received (0/3)
+* :construction: Online Application
 
 
 ### Faculty of Interest
