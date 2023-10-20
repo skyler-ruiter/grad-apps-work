@@ -14,17 +14,17 @@
 * [Oregon State University](#oregon-state-university)
 * [Northwestern University](#northwestern-university)
 * [University of Illinois Chicago](#university-of-illinois-chicago)
-* University of Santa Barbara
-* Virginia Tech University
-* Ohio State University
-* Rutgers University
-* Stony Brook University
-* Colorado School of Mines
-* George Mason University
-* University of Massachusetts Amherst
-* Washington State University
-* University of Waterloo
-* University of Utah
+* [University of Santa Barbara](#university-of-santa-barbara)
+* [Virginia Tech University](#virginia-tech-university)
+* [Ohio State University](#ohio-state-university)
+* [Rutgers University](#rutgers-university)
+* [Stony Brook University](#stony-brook-university)
+* [Colorado School of Mines](#colorodo-school-of-mines)
+* [George Mason University](#george-mason-university)
+* [University of Massachusetts Amherst](#university-of-massachusetts-amherst)
+* [Washington State University](#washington-state-university)
+* [University of Waterloo](#university-of-waterloo)
+* [University of Utah](#university-of-utah)
 
 ## Long Shot Programs (0-5)
 
@@ -92,36 +92,26 @@
   * Papers of Interest: Lots of papers! MPI, PETSc, etc
   * :x: Researched (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
-* [*Edgar Solomonik*](https://solomon2.web.engr.illinois.edu/)
+* [*Edgar Solomonik*](https://solomon2.web.engr.illinois.edu/) :star:
   * [Lab Website](https://lpna.cs.illinois.edu/)
   * **Research interests**: Communication complexity, numerical linear algebra, tensor computations, electronic structure calculations, parallel programming abstractions
-  * :x: Researched (2+ Papers Read)
+  * :x: [Researched](https://drive.google.com/drive/folders/1qTN8DLtaNSdkdbG2nkJkVoKhXy8p78bf?usp=share_link) (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
-* [*Luke Olson*](https://lukeo.cs.illinois.edu/index.html)
+* [*Luke Olson*](https://lukeo.cs.illinois.edu/index.html) :star:
   * **Research Interests**: Multigrid and iterative methods for sparse linear systems, least-squares finite element methods, parallel numerical algorithms on GPUs and large-scale systems
-  * :x: Researched (2+ Papers Read)
+  * [Sparse Matrix Library CUSP](https://github.com/cusplibrary/cusplibrary)
+  * :x: [Researched](https://drive.google.com/drive/folders/1_9gUUnChcbRNGg9g6Q5T_W28qFYbypOb?usp=share_link) (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
-* [Andreas Kloeckner](https://andreask.cs.illinois.edu/aboutme/)
+* [Andreas Kloeckner](https://andreask.cs.illinois.edu/aboutme/) :star:
   * **Research Interests**: High-Order Numerical Methods for Partial Differential Equations (mainly elliptic and hyperbolic), Integral Equation Methods and Fast Algorithms, High-Performance Scientific Computing, and Software Infrastructure for Scientific Computing
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
-* [*Daniel S Katz*](https://danielskatz.org/index.php)
-  * **Reseach Interests**: Resilience and fault-tolerance, Parallel and distributed computing, Many task computing, and Sustainable and open science, focusing on software, including software citation and software publication
   * :x: Researched (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
 
 #### AI/ML
 
 * [*Jimeng Sun*](https://cs.illinois.edu/about/people/faculty/jimeng)
-  * [Lab Website](https://www.sunlab.org/)
-    * Lab seems highly competitive
-  * Research Interests: Machine Learning, Data Mining, and Health Informatics. Bioinformatics.
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
 * [*Jian Peng*](https://cs.illinois.edu/about/people/faculty/jianpeng)
-  * Bioinformatics and ML
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
+
 
 ### Notes
 
@@ -221,10 +211,10 @@
 
 ### Faculty of Interest
 
-* [*H. Metin Aktulga*](https://www.cse.msu.edu/~hma/)
+* [*H. Metin Aktulga*](https://www.cse.msu.edu/~hma/) :star:
   * **Research Interests**: high performance computing, applications of parallel computing, big data analytics and numerical linear algebra.
   * [Google Scholar](https://scholar.google.com/citations?user=CfLHDYgAAAAJ&hl=en)
-  * :x: Researched (2+ Papers Read)
+  * :x: [Researched](https://drive.google.com/drive/folders/1YHahmSSfKEuaLDCB_pKp21Joo0dhwUvu?usp=share_link) (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
 * [*Wolfgang Banzhaf*](https://www.cse.msu.edu/~banzhafw/#research)
   * **Research Interests**: genetic and evolutionary programming
@@ -232,7 +222,9 @@
   * [Google Scholar](https://scholar.google.com/citations?user=u-FjxEUAAAAJ&hl=en)
   * :x: Researched (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
-* [*Jiayu Zhou*](https://jiayuzhou.github.io/)
+* [*Jiayu Zhou*](https://jiayuzhou.github.io/) :star:
+  * **Research Interests**: large-scale machine learning and data mining, and biomedical informatics
+  * [ILLIDAN Lab](https://illidanlab.github.io/)
 * [*Kevin J. Liu*](https://www.egr.msu.edu/people/profile/kjl)
   * **Research Interests**: Bioinformatics, computational biology, and big data/machine learning with applications to genomics.
   * Actively looking for students / asks for emails on website
@@ -306,8 +298,10 @@
   * **Research Interests**: Numerical analysis, numerical linear algebra, computational fluid dynamics, parallel computation
 * [*Laxman Dhulipala*](https://www.cs.umd.edu/people/laxman)
   * **Research Interests**: high-performance parallel algorithms (theory and practice), models of computation for emerging hardware, scalable static/dynamic/streaming graph algorithms
-* [*Abhinav Bhatele*](https://www.cs.umd.edu/people/bhatele)
+* [*Abhinav Bhatele*](https://www.cs.umd.edu/people/bhatele) :star:
   * **Research Interests**: systems and networks, with a focus on parallel computing and large-scale data analytics
+  * :x: [Researched](https://drive.google.com/drive/folders/1UAjK5pI5BW7B_HwkMCfIfGW2xLnL8v7y?usp=share_link) (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
 
 ### Notes
 
