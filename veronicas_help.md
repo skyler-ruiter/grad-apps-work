@@ -40,7 +40,7 @@
   * [University Website](https://www.osu.edu/)
   * Location: Columbus, OH
   * PhD Application Deadline: December 1, 2023
-  * Application Fee: 
+  * Application Fee: 60
   * [Computing College Website](https://gpadmissions.osu.edu/programs/program.aspx?prog=0053#&&tab=about)
   * [Application Requirements](<https://gpadmissions.osu.edu/programs/program.aspx?prog=0053#&&tab=apply>)
     * GRE? - send GRE scores

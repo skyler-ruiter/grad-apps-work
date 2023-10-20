@@ -13,7 +13,7 @@
 
 * [Oregon State University](#oregon-state-university)
 * [Northwestern University](#northwestern-university)
-* University of Illinois Chicago
+* [University of Illinois Chicago](#university-of-illinois-chicago)
 * University of Santa Barbara
 * Virginia Tech University
 * Ohio State University
@@ -147,7 +147,7 @@
   * :x: Sent (0/3)
   * :x: Received (0/3)
 * :construction: Online Application
-  * Statements?
+  * :x: Personal Statement
 
 ### Faculty of Interest
 
@@ -407,6 +407,7 @@
   * :x: Sent (0/3)
   * :x: Received (0/3)
 * :construction: Online Application
+  * :x: 
 
 
 ### Faculty of Interest
@@ -481,7 +482,7 @@
 
 * Location: Evanston, IL
 * Deadline: December 1, 2023
-* Application Fee: $95
+* Application Fee: $95 (**WAIVER AQUIRED**)
 * Application Portal: [Here](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/)
 * Program Website: [Here](https://www.mccormick.northwestern.edu/computer-science/)
 
@@ -502,6 +503,294 @@
 * [*Alok Choudhary*](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/choudhary-alok.html)
   * **Research Interests**: big data science, supercomputing, scalable data mining, Machine Learning, AI and their applications in sciences
   * [Center for Ultra-scale Computing and Information Security](http://cucis.eecs.northwestern.edu/)
+
+### Notes
+
+* waiver so might as well apply
+
+## University of Illinois Chicago
+
+* Location: Chicago, IL
+* Deadline: December 15, 2023
+* Application Fee: $90 (**WAIVER AQUIRED**)
+* Application Portal: [Here]()
+* Program Website: [Here](https://cs.uic.edu/)
+
+### [Application Requirements](https://cs.uic.edu/graduate/admissions/)
+
+* :x: GRE Scores **Required** (minimum 300 GREV+GREQ (with a minimum of 140+ GREV))
+* :x: 3 Letters of Recommendation
+* :x: Statement of Purpose
+* :x: CV
+* :x: Transcripts (Unofficial)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 37k stipend?
+
+## University of Santa Barbara
+
+* Location: Santa Barbara, CA
+* Deadline: December 15, 2023
+* Application Fee: $135
+* Application Portal: [Here]()
+* Program Website: [Here](https://www.cs.ucsb.edu/)
+
+### [Application Requirements](https://www.graddiv.ucsb.edu/how-apply/how-complete-online-application)
+
+* :heavy_check_mark: GRE Scores Don't Send
+* :x: 3 Letters of Recommendation
+* :x: Personal Statement
+* :x: Personal History Statement
+* :x: Diversity Statement
+* :x: CV
+* :x: Transcripts (Unofficial)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 36k stipend?
+
+## Virginia Tech University
+
+* Location: Blacksburg, VA
+* Deadline: December 15, 2023
+* Application Fee: $75
+* Application Portal: [Here](https://applyto.graduateschool.vt.edu/apply/)
+* Program Website: [Here](https://cs.vt.edu/Graduate/Degrees/Doctorate.html)
+
+### Application Requirements
+
+* :heavy_check_mark: GRE Scores **Don't Send**
+* :x: 3 Letters of Recommendation
+* :x: Transcripts (Unofficial)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 2.5k/month stipend
+
+## Ohio State University
+
+* Location: Columbus, OH
+* Deadline: December 1, 2023
+* Application Fee: $60
+* Application Portal: [Here]()
+* Program Website: [Here]()
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 
+
+## Template University
+
+* Location: 
+* Deadline: 
+* Application Fee: $
+* Application Portal: [Here]()
+* Program Website: [Here]()
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 
+
+## Template University
+
+* Location: 
+* Deadline: 
+* Application Fee: $
+* Application Portal: [Here]()
+* Program Website: [Here]()
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 
+
+## Template University
+
+* Location: 
+* Deadline: 
+* Application Fee: $
+* Application Portal: [Here]()
+* Program Website: [Here]()
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 
+
+## Template University
+
+* Location: 
+* Deadline: 
+* Application Fee: $
+* Application Portal: [Here]()
+* Program Website: [Here]()
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 
+
+## Template University
+
+* Location: 
+* Deadline: 
+* Application Fee: $
+* Application Portal: [Here]()
+* Program Website: [Here]()
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 
+
+## Template University
+
+* Location: 
+* Deadline: 
+* Application Fee: $
+* Application Portal: [Here]()
+* Program Website: [Here]()
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 
+
+## Template University
+
+* Location: 
+* Deadline: 
+* Application Fee: $
+* Application Portal: [Here]()
+* Program Website: [Here]()
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 
+
+## Template University
+
+* Location: 
+* Deadline: 
+* Application Fee: $
+* Application Portal: [Here]()
+* Program Website: [Here]()
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
 
 ### Notes
 
