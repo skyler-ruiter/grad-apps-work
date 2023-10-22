@@ -588,12 +588,16 @@
 * Location: Columbus, OH
 * Deadline: December 1, 2023
 * Application Fee: $60
-* Application Portal: [Here]()
-* Program Website: [Here]()
+* Application Portal: [Here](https://delegated.erppub.osu.edu/psc/ps/EMPLOYEE/CAMP/c/OAD_GEA.OAD_GEA_AS_FL.GBL?Page=OAD_GEA_AS1_FL&Action=U)
+* Program Website: [Here](https://cse.osu.edu/graduate/doctor-philosophy-program)
 
 ### Application Requirements
 
-* :x: GRE Scores (Optional)
+* :heavy_check_mark: GRE Scores (Not Required)
+* :x: 3 Letters of Recommendation
+* :x: Statement of Purpose (< 2 pages, 12pt)
+* :x: CV
+* :x: Research Interests
 
 ### Faculty of Interest
 
@@ -604,12 +608,171 @@
 
 ### Notes
 
-* 
+* 32k stipend
 
-## Template University
+## Rutgers University
 
-* Location: 
-* Deadline: 
+* Location: New Brunswick, NJ
+* Deadline: January 1, 2024
+* Application Fee: $70
+* Application Portal: [Here](https://grad.rutgers.edu/admissions)
+* Program Website: [Here](https://www.cs.rutgers.edu/)
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+* :x: Personal Statement
+* :x: Transcripts (Unofficial)
+* :x: 3 Letters of Recommendation
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 36k stipend
+
+## Stony Brook University
+
+* Location: Stony Brook, NY
+* Deadline: January 15, 2024
+* Application Fee: $0
+* Application Portal: [Here](https://graduateadmissions.stonybrook.edu/apply/)
+* Program Website: [Here](https://www.cs.stonybrook.edu/)
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+* :x: Statement of Purpose
+* :x: CV
+* :x: 3 Letters of Recommendation
+* :x: Transcripts (Unofficial)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 20k stipend
+
+## Colorado School of Mines
+
+* Location: Golden, CO
+* Deadline: December 15, 2023
+* Application Fee: $75
+* Application Portal: [Here](https://applygrad.mines.edu/apply/)
+* Program Website: [Here](https://cs.mines.edu/)
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+* :x: Transcripts (Unofficial)
+* :x: 3 Letters of Recommendation
+* :x: Statement of Purpose (~500-700 Words)
+* :x: Supporting Materials (Up to 2)
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 32k stipend
+
+## George Mason University
+
+* Location: Fairfax, VA
+* Deadline: December 1, 2023
+* Application Fee: $75
+* Application Portal: [Here](https://masongrad.my.site.com/onlineapp/TX_SiteLogin?startURL=%2Fonlineapp%2FTargetX_Portal__PB)
+* Program Website: [Here](https://cs.gmu.edu/)
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+* :x: 2 Letters of Recommendation
+* :x: Statement of Purpose
+
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 25k stipend
+
+## University of Massachusetts Amherst
+
+* Location: Amherst, MA
+* Deadline: December 15, 2023
+* Application Fee: $85
+* Application Portal: [Here](https://applygrad.umass.edu/apply/)
+* Program Website: [Here](https://www.cics.umass.edu/degree-program/doctoral)
+
+### Application Requirements
+
+* :x: GRE Scores (Not Required)
+* :x: Transcripts (Unofficial)
+* :x: 2 Letters of Recommendation
+* :x: Personal Statement
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* 25k stipend
+
+## Washington State University
+
+* Location: Pullman, WA
+* Deadline: January 10, 2024
+* Application Fee: $90
+* Application Portal: [Here](https://gradcas2024.liaisoncas.com/applicant-ux/#/login)
+* Program Website: [Here](https://school.eecs.wsu.edu/academics/graduate-program/)
+
+### Application Requirements
+
+* :x: GRE Scores (Optional)
+* :x: Transcripts (Unofficial)
+* :x: 3 Letters of Recommendation
+* :x: Statement of Purpose
+
+### Faculty of Interest
+
+* [*Name*]()
+  * **Research Interests**:
+  * :x: Researched (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+
+### Notes
+
+* Recommended to contact faculty before applying 
+* 20k stipend
+
+## University of Waterloo
+
+* Location: Waterloo, Ontario, Canada
+* Deadline: December 1, 2023
 * Application Fee: $
 * Application Portal: [Here]()
 * Program Website: [Here]()
@@ -623,23 +786,28 @@
 * [*Name*]()
   * **Research Interests**:
   * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
+  * :x: Contacted `(Email of interest sent)
 
 ### Notes
 
 * 
 
-## Template University
+## University of Utah
 
-* Location: 
-* Deadline: 
-* Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
+* Location: Salt Lake City, UT
+* Deadline: December 15, 2023
+* Application Fee: $0
+* Application Portal: [Here](https://futureu.admissions.utah.edu/apply/)
+* Program Website: [Here](https://www.cs.utah.edu/)
 
 ### Application Requirements
 
 * :x: GRE Scores (Optional)
+* :x: Transcripts (Unofficial)
+* :x: 3 Letters of Recommendation
+* :x: Statement of Purpose (1-3 Pages single spaced)
+* :x: CV
+* :x: Online Application
 
 ### Faculty of Interest
 
@@ -650,145 +818,7 @@
 
 ### Notes
 
-* 
-
-## Template University
-
-* Location: 
-* Deadline: 
-* Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
-
-### Application Requirements
-
-* :x: GRE Scores (Optional)
-
-### Faculty of Interest
-
-* [*Name*]()
-  * **Research Interests**:
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
-
-### Notes
-
-* 
-
-## Template University
-
-* Location: 
-* Deadline: 
-* Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
-
-### Application Requirements
-
-* :x: GRE Scores (Optional)
-
-### Faculty of Interest
-
-* [*Name*]()
-  * **Research Interests**:
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
-
-### Notes
-
-* 
-
-## Template University
-
-* Location: 
-* Deadline: 
-* Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
-
-### Application Requirements
-
-* :x: GRE Scores (Optional)
-
-### Faculty of Interest
-
-* [*Name*]()
-  * **Research Interests**:
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
-
-### Notes
-
-* 
-
-## Template University
-
-* Location: 
-* Deadline: 
-* Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
-
-### Application Requirements
-
-* :x: GRE Scores (Optional)
-
-### Faculty of Interest
-
-* [*Name*]()
-  * **Research Interests**:
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
-
-### Notes
-
-* 
-
-## Template University
-
-* Location: 
-* Deadline: 
-* Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
-
-### Application Requirements
-
-* :x: GRE Scores (Optional)
-
-### Faculty of Interest
-
-* [*Name*]()
-  * **Research Interests**:
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
-
-### Notes
-
-* 
-
-## Template University
-
-* Location: 
-* Deadline: 
-* Application Fee: $
-* Application Portal: [Here]()
-* Program Website: [Here]()
-
-### Application Requirements
-
-* :x: GRE Scores (Optional)
-
-### Faculty of Interest
-
-* [*Name*]()
-  * **Research Interests**:
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
-
-### Notes
-
-* 
+* 26k stipend
 
 ## **--------Long Shot Programs--------**
 
