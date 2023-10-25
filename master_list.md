@@ -5,8 +5,8 @@
 3. [**:construction: University of Notre Dame**](#university-of-notre-dame) :star:
 4. [**:construction: Purdue University**](#purdue-university)
 5. [**:construction: Michigan State University**](#michigan-state-university) :star:
-6. [**:construction: University of Maryland College Park**](#university-of-maryland-college-park)
-7. [**:construction: University of Minnesota**](#university-of-minnesota)
+6. [**:construction: University of Maryland College Park**](#university-of-maryland-college-park) :star:
+7. [**:construction: University of Minnesota**](#university-of-minnesota) :star:
 8. [**:construction: Georgia Tech University**](#georgia-tech-university)
 
 ## Programs To Look Into
@@ -19,7 +19,7 @@
 * [Ohio State University](#ohio-state-university)
 * [Rutgers University](#rutgers-university)
 * [Stony Brook University](#stony-brook-university)
-* [Colorado School of Mines](#colorodo-school-of-mines)
+* [Colorado School of Mines](#colorado-school-of-mines)
 * [George Mason University](#george-mason-university)
 * [University of Massachusetts Amherst](#university-of-massachusetts-amherst)
 * [Washington State University](#washington-state-university)
@@ -90,8 +90,6 @@
 * [*William D Gropp*](https://wgropp.cs.illinois.edu/index.html)
   * **Research Interests**: HPC, Parallel Computing, Scientific Computing. Scalable numerical algorithms for PDEs and creating systems for highly scalable applications.
   * Papers of Interest: Lots of papers! MPI, PETSc, etc
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
 * [*Edgar Solomonik*](https://solomon2.web.engr.illinois.edu/) :star:
   * [Lab Website](https://lpna.cs.illinois.edu/)
   * **Research interests**: Communication complexity, numerical linear algebra, tensor computations, electronic structure calculations, parallel programming abstractions
@@ -220,17 +218,15 @@
   * **Research Interests**: genetic and evolutionary programming
   * [Lab](https://banzhaf-lab.github.io/)
   * [Google Scholar](https://scholar.google.com/citations?user=u-FjxEUAAAAJ&hl=en)
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
 * [*Jiayu Zhou*](https://jiayuzhou.github.io/) :star:
   * **Research Interests**: large-scale machine learning and data mining, and biomedical informatics
   * [ILLIDAN Lab](https://illidanlab.github.io/)
+  * :x: [Researched](https://drive.google.com/drive/folders/17o_ThVdwjL32_Hj8OYyRN5_CXvNM7TjV?usp=sharing) (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
 * [*Kevin J. Liu*](https://www.egr.msu.edu/people/profile/kjl)
   * **Research Interests**: Bioinformatics, computational biology, and big data/machine learning with applications to genomics.
   * Actively looking for students / asks for emails on website
   * [Website](https://www.cse.msu.edu/~kjl/index.html) LOOK HERE
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
 
 ### Notes
 
@@ -294,10 +290,14 @@
 
 ### Faculty of Interest
 
-* [*Howard Elman*](https://www.cs.umd.edu/~elman/)
+* [*Howard Elman*](https://www.cs.umd.edu/~elman/) :star:
   * **Research Interests**: Numerical analysis, numerical linear algebra, computational fluid dynamics, parallel computation
-* [*Laxman Dhulipala*](https://www.cs.umd.edu/people/laxman)
+  * :x: [Researched](https://drive.google.com/drive/folders/1HD1EyuZf65uiQtYvDzcJUhg6shiI3uiG?usp=share_link) (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
+* [*Laxman Dhulipala*](https://www.cs.umd.edu/people/laxman) :star:
   * **Research Interests**: high-performance parallel algorithms (theory and practice), models of computation for emerging hardware, scalable static/dynamic/streaming graph algorithms
+  * :x: [Researched](https://drive.google.com/drive/folders/19yymKo3DSsxmS4Oo177V0ObbxvUGRaNs?usp=share_link) (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
 * [*Abhinav Bhatele*](https://www.cs.umd.edu/people/bhatele) :star:
   * **Research Interests**: systems and networks, with a focus on parallel computing and large-scale data analytics
   * :x: [Researched](https://drive.google.com/drive/folders/1UAjK5pI5BW7B_HwkMCfIfGW2xLnL8v7y?usp=share_link) (2+ Papers Read)
@@ -330,22 +330,21 @@
 
 ### Faculty of Interest
 
-* [*George Karypis*](https://cse.umn.edu/cs/george-karypis)
+* [*George Karypis*](https://cse.umn.edu/cs/george-karypis) :star:
   * Seth's #1 Choice?
+  * [Lab](http://glaros.dtc.umn.edu/gkhome/research)
   * [Google Scholar](https://scholar.google.com/citations?user=ElqwScwAAAAJ&hl=en)
   * **Research Interests**: HPC, Bioinformatics
-  * :x: Researched (2+ Papers Read)
+  * :x: [Researched](https://drive.google.com/drive/folders/1eaUgOtCn12m8FYA0HpEzWPWPYeKr4GJ2?usp=sharing) (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
 * [*Daniel Boley*](https://cse.umn.edu/cs/daniel-boley)
   * **Research Interests**: scalable algorithms for convex optimization in machine learning, the analysis of networks and graphs such as those arising from metabolic biochemical networks and networks of wireless devices
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
-* [*Yousef Saad*](https://cse.umn.edu/cs/yousef-saad)
+* [*Yousef Saad*](https://cse.umn.edu/cs/yousef-saad) :star:
   * **Research Interests**: numerical linear algebra, sparse matrix computations, iterative methods for linear systems and eigenvalue problems, parallel algorithms in numerical linear algebra, and matrix methods for machine learning
+  * :x: [Researched](https://drive.google.com/drive/folders/1UAEIMvYSqmLTyFyaunBKQJ0HNNHYCh-R?usp=sharing) (2+ Papers Read) 
+  * :x: Contacted (Email of interest sent)
 * [*Vipin Kumar*](https://cse.umn.edu/cs/vipin-kumar)
   * **Research Interests**: data mining, high-performance computing, and their applications in climate/ecosystems and health care
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
 
 ### Notes
 
@@ -374,9 +373,12 @@
 
 * [*Tim Weninger*](https://timweninger.com/)
   * **Research Interests**: artificial intelligence, machine learning, and social media
-* [*Douglas Thain*](https://www3.nd.edu/~dthain/)
+* [*Douglas Thain*](https://www3.nd.edu/~dthain/) :star:
   * **Research Interests**: Distributed computing, Scientific computing, Cloud computing, Grid computing, Operating systems, Open source software, File and storage systems, Compilers and languages
-
+  * [Lab](https://ccl.cse.nd.edu/)
+  * [Blog](https://dthain.blogspot.com/) (last updated 2020)
+  * :x: [Researched](https://drive.google.com/drive/folders/17Gm-h0jkRRT1Czt0D1UUjudXJD8bppLK?usp=sharing) (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
 * [*Xiangliang (Lynn) Zhang*](https://cse.nd.edu/faculty/xiangliang-zhang/)
   * **Research Interests**: machine learning, data mining and their application in knowledge discovery
 * [*Danny Chen*](https://cse.nd.edu/faculty/danny-chen/)
@@ -497,6 +499,7 @@
 * [*Alok Choudhary*](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/choudhary-alok.html)
   * **Research Interests**: big data science, supercomputing, scalable data mining, Machine Learning, AI and their applications in sciences
   * [Center for Ultra-scale Computing and Information Security](http://cucis.eecs.northwestern.edu/)
+  * BIG DEAL??
 
 ### Notes
 
