@@ -3,16 +3,16 @@
 1. [**:construction: University of Illinois Urbana-Champagne**](#university-of-illinois-urbana-champagne) :star:
 2. [**:construction: University of Wisconsin-Madison**](#university-of-wisconsin-madison)
 3. [**:construction: University of Notre Dame**](#university-of-notre-dame) :star:
-4. [**:construction: Purdue University**](#purdue-university)
+4. [**:construction: Purdue University**](#purdue-university) :star:
 5. [**:construction: Michigan State University**](#michigan-state-university) :star:
 6. [**:construction: University of Maryland College Park**](#university-of-maryland-college-park) :star:
 7. [**:construction: University of Minnesota**](#university-of-minnesota) :star:
-8. [**:construction: Georgia Tech University**](#georgia-tech-university)
+8. [**:construction: Georgia Tech University**](#georgia-tech-university) :star:
 
 ## Programs To Look Into
 
 * [Oregon State University](#oregon-state-university)
-* [Northwestern University](#northwestern-university)
+* [Northwestern University](#northwestern-university) :star:
 * [University of Illinois Chicago](#university-of-illinois-chicago)
 * [University of Santa Barbara](#university-of-santa-barbara)
 * [Virginia Tech University](#virginia-tech-university)
@@ -90,19 +90,19 @@
 * [*William D Gropp*](https://wgropp.cs.illinois.edu/index.html)
   * **Research Interests**: HPC, Parallel Computing, Scientific Computing. Scalable numerical algorithms for PDEs and creating systems for highly scalable applications.
   * Papers of Interest: Lots of papers! MPI, PETSc, etc
-* [*Edgar Solomonik*](https://solomon2.web.engr.illinois.edu/) :star:
+* [*Edgar Solomonik*](https://solomon2.web.engr.illinois.edu/) :star: 3
   * [Lab Website](https://lpna.cs.illinois.edu/)
   * **Research interests**: Communication complexity, numerical linear algebra, tensor computations, electronic structure calculations, parallel programming abstractions
-  * :x: [Researched](https://drive.google.com/drive/folders/1qTN8DLtaNSdkdbG2nkJkVoKhXy8p78bf?usp=share_link) (2+ Papers Read)
+  * :x: [Researched](https://drive.google.com/drive/folders/1df3oeuOb13u3Vj9SVC_aaDVq0lLzn2Fi?usp=drive_link) (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
-* [*Luke Olson*](https://lukeo.cs.illinois.edu/index.html) :star:
+* [*Luke Olson*](https://lukeo.cs.illinois.edu/index.html) :star: 1
   * **Research Interests**: Multigrid and iterative methods for sparse linear systems, least-squares finite element methods, parallel numerical algorithms on GPUs and large-scale systems
   * [Sparse Matrix Library CUSP](https://github.com/cusplibrary/cusplibrary)
   * :x: [Researched](https://drive.google.com/drive/folders/1_9gUUnChcbRNGg9g6Q5T_W28qFYbypOb?usp=share_link) (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
-* [Andreas Kloeckner](https://andreask.cs.illinois.edu/aboutme/) :star:
+* [Andreas Kloeckner](https://andreask.cs.illinois.edu/aboutme/) :star: 2
   * **Research Interests**: High-Order Numerical Methods for Partial Differential Equations (mainly elliptic and hyperbolic), Integral Equation Methods and Fast Algorithms, High-Performance Scientific Computing, and Software Infrastructure for Scientific Computing
-  * :x: Researched (2+ Papers Read)
+  * :x: [Researched](https://drive.google.com/drive/folders/1qTN8DLtaNSdkdbG2nkJkVoKhXy8p78bf?usp=share_link) (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
 
 #### AI/ML
@@ -261,8 +261,10 @@
   * **Research Interests**: Parallel and distributed computing, algorithms, and applications
 * [*Alex Pothen*](https://www.cs.purdue.edu/people/faculty/apothen.html)
   * **Research Interests**: combinatorial scientific computing (CSC), parallel algorithms, graph algorithms, and bioinformatics
-* [*David F. Gleich*](https://www.cs.purdue.edu/homes/dgleich/)
+* [*David F. Gleich*](https://www.cs.purdue.edu/homes/dgleich/) :star:
   * **Research Interests**: high performance and large scale computations with a focus on enabling previously infeasible analysis of data from biology, social networks, and scientific simulations
+  * :x: [Researched](https://drive.google.com/drive/folders/1NLM2RSe3ewCGrXXE1o2d_5-alJ0WMRIO?usp=share_link) (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
 
 ### Notes
 
@@ -345,6 +347,7 @@
   * :x: Contacted (Email of interest sent)
 * [*Vipin Kumar*](https://cse.umn.edu/cs/vipin-kumar)
   * **Research Interests**: data mining, high-performance computing, and their applications in climate/ecosystems and health care
+* Todd Woyserman (guess spelling)
 
 ### Notes
 
@@ -410,20 +413,26 @@
 
 #### [HPC](https://cse.gatech.edu/high-performance-computing)
 
-* [*Helen Xu*](https://itshelenxu.github.io/)
+* [*Helen Xu*](https://itshelenxu.github.io/) :star: 2
   * **Research Interests**: Parallel and high-performance computing, Cache-friendly algorithms and data structures, Software performance engineering
   * Looking for PhD Students
-* [*Rich Vuduc*](https://vuduc.org/v2/)
+  * [Researched](https://drive.google.com/drive/folders/1GMooG9gZHKY-enzRSFq3iNznFxDJXGnR?usp=share_link) (2+ Papers Read)
+  * Contacted (Email of interest sent)
+* [*Rich Vuduc*](https://vuduc.org/v2/) :star: 1
   * **Research Interests**: scientific computing and statistical data analysis, and we usually target high-end computing platforms, a.k.a., supercomputers
   * [HPC Garage](https://hpcgarage.org/wp/)
-* [*Haesun Park*](https://faculty.cc.gatech.edu/~hpark/research.html)
+  * [Researched](https://drive.google.com/drive/folders/1PXVabNukG7YA4YjDz6-T8xwkfKBqhN5a?usp=share_link) (2+ Papers Read)
+  * Contacted (Email of interest sent)
+* [*Haesun Park*](https://faculty.cc.gatech.edu/~hpark/research.html) :star: 3
   * **Research Interests**: Numerical Computing, Large Scale Data Analytics, Visual Analytics, Text Analysis, Social Network Analysis, Parallel Computing, Bioinformatics
   * Makes NMF algorithms!
+  * :x: [Researched](https://drive.google.com/drive/folders/1fkkBWOUNUevVx9MFDKrnvpz0KDFpqeWs?usp=share_link) (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
 * [*Edmond Chow*](https://faculty.cc.gatech.edu/~echow/)
   * **Research Interests**: Numerical methods, particularly numerical linear algebra, for high-performance computers applied to scientific computing and data science problems, including for PDE models, quantum chemistry, molecular dynamics, Brownian/Stokesian dynamics, inverse problems, data assimilation, uncertainty quantification, Gaussian processes, machine learning.
   * [IPCC Lab](https://faculty.cc.gatech.edu/~echow/ipcc/)
 * [*Ümit V. Çatalyürek*](https://faculty.cc.gatech.edu/~umit/)
-  * **Research Interests**: high performance computing, combinatorial scientific computing and biomedical informatics
+  * **Research Interests**: high performance computing, combinatorial scientific computing and biomedical informatics (GRAPH THEORY)
   * [TDA Lab](http://tda.gatech.edu/projects)
 * [*Spencer Bryngelson*](https://comp-physics.group/)
   * **Research Interests**: Computational physics, numerical methods, fluid dynamics, high performance computing
@@ -492,8 +501,10 @@
 
 ### Faculty of Interest
 
-* [*Nikos Hardavellas*](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hardavellas-nikos.html)
+* [*Nikos Hardavellas*](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hardavellas-nikos.html) :star:
   * **Research Interests**: parallel systems and computer architecture, primarily on techniques to enable extreme-scale multicore processors and practical quantum systems
+  * :x: [Researched](https://drive.google.com/drive/folders/1Px7DvFxN4_99wt86-h2WYr_ohCmWVlUK?usp=share_link) (2+ Papers Read)
+  * :x: Contacted (Email of interest sent)
 * [*Peter Dinda*](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dinda-peter.html)
   * **Research Interests**: virtualization and operating systems for distributed and parallel computing, programming languages for parallel computing, and empathic systems for bridging individual user satisfaction and systems-level decision-making
 * [*Alok Choudhary*](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/choudhary-alok.html)
