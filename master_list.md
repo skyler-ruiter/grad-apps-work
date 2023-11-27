@@ -74,14 +74,13 @@
 
 * :x: Three Letters of Recommendation
   * :heavy_check_mark: Sent (3/3)
-  * :x: Received (0/3)
+  * :construction: Received (1/3)
 * :construction: Online Application
-  * :x: Statement of Purpose
+  * :construction: Statement of Purpose
   * :heavy_check_mark: CV
 * :x: Academic Statement (1,000 Words Max)
 * :x: Personal Statement Questions (0/2) (250 Words Max)
-
-* :x: GRE Scores (**Optional**)
+* :heavy_check_mark: GRE Scores (**Optional**)
 
 ### Faculty of Interest
 
@@ -132,10 +131,10 @@
 
 * :heavy_check_mark: Unofficial Transcripts (Official **not** required for initial review)
 * :x: Three Letters of Recommendation
-  * :x: Sent (0/3)
-  * :x: Received (0/3)
+  * :heavy_check_mark: Sent (3/3)
+  * :construction: Received (1/3)
 * :construction: Online Application
-  * :x: Personal Statement
+  * :heavy_check_mark: Personal Statement
 
 ### Faculty of Interest
 
@@ -144,7 +143,7 @@
 * [*Stephen Wright*](https://wid.wisc.edu/people/stephen-wright/)
   * Head of CS Department at UW-Madison?
   * **Research Interests**: Optimization algorithms with applications to data analysis and other areas
-  * :x: Researched (2+ Papers Read)
+  * :construction: Researched (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
 * [*Barton P. Miller*](https://pages.cs.wisc.edu/~bart/includes/research.html)
   * **Research Interests**: Binary code analysis and instrumentation, distributed and parallel program performance and tools, software security, scalable systems, operating systems, software testing.
@@ -159,18 +158,14 @@
   * Looking for students
   * Has the HAL
   * **Research Interests**: operating systems and parallel programming
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
+  * :construction: Researched (2+ Papers Read)
+  * :construction: Contacted (Email of interest sent)
 * [*Michael Ferris*](https://pages.cs.wisc.edu/~ferris/)
   * **Research Interests**:  Algorithms, environments, theory and applications of optimization.
   * :x: Researched (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
 * [*Jeff Linderoth*](https://wid.wisc.edu/people/jeff-linderoth/)
   * **Research Interests**:  Models and Algorithms for Large-Scale Numerical Optimization
-  * :x: Researched (2+ Papers Read)
-  * :x: Contacted (Email of interest sent)
-* [*Michael Swift*](https://pages.cs.wisc.edu/~swift/)
-  * **Research Interests**: Interaction of operating systems and hardware, including devices and new processor/memory technologies.
   * :x: Researched (2+ Papers Read)
   * :x: Contacted (Email of interest sent)
 * [*Andrea C. Arpaci-Dusseau*](https://pages.cs.wisc.edu/~dusseau/)
@@ -198,12 +193,12 @@
 
 * :construction: Online Application
   * Note: Skip employment and activities section (its on the CV)
-  * :x: 3 Letters of Recommendation
-    * :x: Sent (0/3)
-    * :x: Received (0/3)
-  * :x: Academic Statement
-  * :x: Personal Statement
-  * :x: GRE Test Scores (*Highly Recommended*)
+  * :construction: 3 Letters of Recommendation
+    * :heavy_check_mark: Sent (3/3)
+    * :construction: Received (1/3)
+  * :construction: Academic Statement
+  * :heavy_check_mark: Personal Statement
+  * :heavy_check_mark: GRE Test Scores (*Highly Recommended*)
   * :x: CV
   * :x: Unoffical Transcripts
 
@@ -246,9 +241,9 @@
 * :heavy_check_mark: CS Supplemental Form (Coursework)
 * :x: Academic Statement of Purpose
 * :x: [Personal History Statement](https://www.purdue.edu/gradschool/admissions/how-to-apply/personal-history.html)
-* :x: 3 Letters of Recommendation
-  * :x: Sent (0/3)
-  * :x: Received (0/3)
+* :construction: 3 Letters of Recommendation
+  * :heavy_check_mark: Sent (3/3)
+  * :construction: Received (1/3)
 * :x: Transcripts
 * :construction: Electronic Graduate Application
 
@@ -283,10 +278,10 @@
 
 * :construction: Online Graduate Application
 * :heavy_check_mark: Transcrips (Unofficial)
-* :x: GRE Scores (Optional)
-* :x: 3 Letters of Recommendation
-  * :x: Sent (0/3)
-  * :x: Received (0/3)
+* :heavy_check_mark: GRE Scores (Optional)
+* :construction: 3 Letters of Recommendation
+  * :heavy_check_mark: Sent (3/3)
+  * :construction: Received (1/3)
 * :heavy_check_mark: CV
 * :x: Publications (Optional)
 
@@ -321,14 +316,13 @@
 ### [Application Requirements](https://cse.umn.edu/cs/phd-admissions)
 
 * :heavy_check_mark: GRE Scores are **not considered** DO NOT SEND
-* :x: Statement of Purpose / Personal Statement
+* :construction: Statement of Purpose / Personal Statement
 * :x: Diversity Statement
 * :heavy_check_mark: Transcripts (Unofficial)
-* :x: CV
-* :x: 3 Letters of Recommendation
-  * :x: Sent (0/3)
-  * :x: Received (0/3)
-* :x: Description of Research (Optional)
+* :heavy_check_mark: CV
+* :construction: 3 Letters of Recommendation
+  * :heavy_check_mark: Sent (3/3)
+  * :construction: Received (1/3)
 
 ### Faculty of Interest
 
@@ -363,14 +357,14 @@
 
 ### Application Requirements
 
-* :x: GRE Scores (Optional)
+* :heavy_check_mark: GRE Scores (Optional)
 * :heavy_check_mark: CV
 * :heavy_check_mark: Transcripts (Unofficial)
-* :x: Statement of Intent
+* :construction: Statement of Intent
 * :x: Force for Good Statement (Optional)
-* :x: 3 Letters of Recommendation
-  * :x: Sent (0/3)
-  * :x: Received (0/3)
+* :construction: 3 Letters of Recommendation
+  * :heavy_check_mark: Sent (3/3)
+  * :construction: Received (1/3)
 
 ### Faculty of Interest
 
@@ -401,12 +395,12 @@
 
 ### [Application Requirements](https://www.cc.gatech.edu/phd-cs-admissions-requirements)
 
-* :x: GRE Scores (Optional)
-* :x: 3 Letters of Recommendation
-  * :x: Sent (0/3)
-  * :x: Received (0/3)
+* :heavy_check_mark: GRE Scores (Optional)
+* :construction: 3 Letters of Recommendation
+  * :heavy_check_mark: Sent (3/3)
+  * :construction: Received (1/3)
 * :construction: Online Application
-  * :x: 
+  * :x: Essay Questions (0/5)
 
 
 ### Faculty of Interest
@@ -497,7 +491,7 @@
 * :x: Academic Statement
 * :x: Personal Statement
 * :x: Unofficial Transcripts 
-* :x: 3 Letters of Recommendation
+* :construction: 3 Letters of Recommendation (1/3)
 
 ### Faculty of Interest
 

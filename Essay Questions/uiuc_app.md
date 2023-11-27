@@ -13,5 +13,6 @@ Please write a statement that answers the following questions (1,000 words max):
 #1 Please describe any experiences and/or challenges that may have shaped your intellectual and personal development. (250 words max)
 
 
+
 #2 Provide insight into your potential to contribute to a community of inclusion, belonging, and respect in which scholars with diverse perspectives, abilities, and experiences can learn and collaborate productively and positively. (250 words max)
 

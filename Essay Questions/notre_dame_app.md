@@ -18,7 +18,7 @@ The statement of intent should capture your intellectual development and interes
 
 ---
 
-## Force for Good Statement (Optional)
+## Force for Good Statement
 
 The University of Notre Dame wants to educate and inspire its students to be moral citizens within their communities and the larger world, to use their talents to the best of their ability, and to develop the generous sensibilities needed to relieve injustice, oppression, and poverty in all of their manifestations. In sum, our vision is for students to be a 'force for good" in their distinctive communities. We know that our students' lived experiences will be broad--from a wide range of backgrounds--and the communities they impact will vary. Discuss how your individual background and lived experience have shaped your educational journey so far, and how you hope it may contribute to your future impact on society or your community.
 
