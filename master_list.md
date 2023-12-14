@@ -8,15 +8,15 @@
 6. [**:construction: University of Maryland College Park**](#university-of-maryland-college-park) :star:
 7. [**:construction: University of Minnesota**](#university-of-minnesota) :star:
 8. [**:construction: Georgia Tech University**](#georgia-tech-university) :star:
+9. [**:construction: Ohio State University**](#ohio-state-university)
+10. [**:construction: Virginia Tech University**](#virginia-tech-univeristy)
+11. [**:construction: University of Indiana Bloomington**](#university-of-indiana-bloomington)
+12. [**:construction: Northeastern University**](#northeastern-university)
 
 ## Programs To Look Into
 
 * [Oregon State University](#oregon-state-university)
-* [Northwestern University](#northwestern-university) :star:
-* [University of Illinois Chicago](#university-of-illinois-chicago)
 * [University of Santa Barbara](#university-of-santa-barbara)
-* [Virginia Tech University](#virginia-tech-university)
-* [Ohio State University](#ohio-state-university)
 * [Rutgers University](#rutgers-university)
 * [Stony Brook University](#stony-brook-university)
 * [Colorado School of Mines](#colorado-school-of-mines)
